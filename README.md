@@ -18,8 +18,7 @@ This app was created following the [Android Basics with Compose: Business Card A
 
 ## Screenshots
 
-
-
+![Business Card Screenshot](BusinessCard.png)
 
 ## Technologies Used
 
