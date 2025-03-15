@@ -70,7 +70,6 @@ fun LogoAndNameSection() {
     Column(
         horizontalAlignment = Alignment.CenterHorizontally
     ) {
-        // Replace R.drawable.android_logo with your logo resource
         Image(
             painter = painterResource(id =R.drawable.android_logo),
             contentDescription = "Android Logo",
